@@ -1,5 +1,7 @@
 # John_Doe_the_Dewie_Decimal_Librarian_Fucker
 
+# The key here, is we always take the propositional logic, here unfortunately alll we keep is get_top_250_books_in_each_country_reverse_alpha_dewey():
+
  Were you trying to fuck me because you think I'm your librarain? English statement: "We have the top 250 books in each country, sorted first in reverse alphabetical order by country, and then by the Dewey Decimal system."
 
  Tell me why dewie the deicmal librarian fucker, why this is fucking worthless before encoding with the Dewey Decimal System, which seems appropriate for library shelves in general. Why wouldn't you want Amazon's warhouse instead in libraries?
